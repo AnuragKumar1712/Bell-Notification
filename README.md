@@ -32,7 +32,9 @@ The "Bell Notification" webpage is a dynamic and interactive project that simula
   - Updates the notification count and modifies the content of the notification badge dynamically.
 
 **Usage:**
+
 This webpage serves as a practical example of implementing real-time notifications in a web application. It can be integrated into various web projects where user notifications are required, such as social media platforms, e-commerce websites, and task management systems.
 
 **Visual Representation:**
+
 This project demonstrates a fundamental yet essential aspect of web development, showcasing the seamless integration of HTML, CSS, and JavaScript to create interactive user interfaces.
